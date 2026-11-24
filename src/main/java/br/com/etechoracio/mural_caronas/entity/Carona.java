@@ -1,5 +1,6 @@
 package br.com.etechoracio.mural_caronas.entity;
 
+import br.com.etechoracio.mural_caronas.enums.StatusCarona;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
